@@ -1,8 +1,7 @@
-import { TbBrandNextjs } from "react-icons/tb";
+
 import { SiPostgresql, SiTypescript } from "react-icons/si";
-import { FaGit, FaPython } from "react-icons/fa";
+import { FaGit } from "react-icons/fa";
 import {
-  FaDocker,
   FaHtml5,
   FaCss3Alt,
   FaJs,
